@@ -6,6 +6,8 @@ Lorem markdownum neque facinus tua postquam euntem heres unumque, nec arte *et*
 voti potentis omnis. Loqui vix renuente frangit. Atra capit duas quam! Lacu qui
 conspicit dum. Et mens Phoebo herba trepidans vasta crudeles et ipse ut namque?
 
+![salmon of knowledge](../assets/salmon.jpg)
+
 ## Voto sententia iterum es et vultum umbram
 
 Ne est sed nervo crimen, est quod flagrans partim perdam harpen vivus eodem
